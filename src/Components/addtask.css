@@ -1,0 +1,25 @@
+form {
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 10px;
+  width: 25em;
+  display: flex;
+  gap: 10px;
+}
+
+form input {
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    font-size: 1.3em;
+    outline: none;
+}
+
+button{
+    width: 60px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.3em;
+}
